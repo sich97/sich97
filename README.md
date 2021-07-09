@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sich97
-- 👀 I’m interested in Python, AI, Game development, web/game hosting
+- 👋 Hi, I’m Simon Christiansen
+- 👀 I’m interested in Python, AI, Game development (Zarxathors Fall), web/game hosting (Satorihost.com)
 - 🌱 I’m currently learning Kiwi and Godot/GDScript
 - 💞️ I’m looking to collaborate on Godot and Pterodactyl Panel/Wings
 - 📫 How to reach me: sich97@protonmail.com
