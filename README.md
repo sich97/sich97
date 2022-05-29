@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Simon Christiansen
-- 👀 I’m interested in React, Python, AI, Game development (Zarxathors Fall), web/game hosting (Satorihost.com)
-- 🌱 I’m currently learning React, Ionic and Godot/GDScript
-- 💞️ I’m looking to collaborate on Godot and Pterodactyl Panel/Wings
-- 📫 How to reach me: sich97@protonmail.com
+- 👀 I’m interested in AI, Web & game development and IT-operations
+- 🌱 I’m currently learning Angular & SolidJS
+- 💞️ I’m not currently looking to collaborate. But give me a heads-up if you're in need of some help.
+- 📫 How to reach me: sich97@chri.no
 
 <!---
 sich97/sich97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
