@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Simon Christiansen
 - 👀 I’m interested in Web & game development, IT-operations, AI & Philosophy
-- 🎓 I know (In order of confidence): Python, Godot, React & Ionic, Powershell
-- 🌱 I’m currently learning Angular & SolidJS  (trying to figure out which one I dislike the least..)
+- 🎓 I know (In order of confidence): Python, Terraform & Cloudinit, Golang, Godot, React & Ionic, Powershell
+- 🌱 I’m currently learning more about terraform and cloudinit
 - 💞️ I’m not currently looking to collaborate. But give me a heads-up if you're in need of some help :)
 - 📫 How to reach me: simon@chri.no
 
