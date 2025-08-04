@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Simon Christiansen
 - 👀 I’m interested in Web & game development, IT-operations, AI & Philosophy
 - 🎓 I know (In order of confidence): Python, Terraform & Cloudinit, Golang, Godot, React & Ionic, Powershell
-- 🌱 I’m currently learning more about terraform and cloudinit
+- 🌠 Notable projects: https://monker.chri.no (Poker win chance calculator using Monte Carlo)
+- 🌱 I’m currently learning more about Rust
 - 💞️ I’m not currently looking to collaborate. But give me a heads-up if you're in need of some help :)
 - 📫 How to reach me: simon@chri.no
 
